@@ -1,0 +1,44 @@
+/* Proxima Fonts */
+@font-face {
+    font-family: 'proxima-bold';
+    src: url('fonts/proxima/proximanova-extrabold-webfont.eot');
+    src: url('fonts/proxima/proximanova-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proxima/proximanova-extrabold-webfont.woff') format('woff'),
+         url('fonts/proxima/proximanova-extrabold-webfont.ttf') format('truetype'),
+         url('fonts/proxima/proximanova-extrabold-webfont.svg#proxima-bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'proxima-semibold';
+    src: url('fonts/proxima/proximanova-semibold-webfont.eot');
+    src: url('fonts/proxima/proximanova-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proxima/proximanova-semibold-webfont.woff') format('woff'),
+         url('fonts/proxima/proximanova-semibold-webfont.ttf') format('truetype'),
+         url('fonts/proxima/proximanova-semibold-webfont.svg#proxima-semibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'proxima-light';
+    src: url('fonts/proxima/proximanova-light-webfont.eot');
+    src: url('fonts/proxima/proximanova-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proxima/proximanova-light-webfont.woff') format('woff'),
+         url('fonts/proxima/proximanova-light-webfont.ttf') format('truetype'),
+         url('fonts/proxima/proximanova-light-webfont.svg#proxima-light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'proxima-regular';
+    src: url('fonts/proxima/proximanova-regular-webfont.eot');
+    src: url('fonts/proxima/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proxima/proximanova-regular-webfont.woff') format('woff'),
+         url('fonts/proxima/proximanova-regular-webfont.ttf') format('truetype'),
+         url('fonts/proxima/proximanova-regular-webfont.svg#proxima-regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
